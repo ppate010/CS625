@@ -15,3 +15,12 @@ Clone: Cloning a repository means creating a local copy of a remote repository o
 Pull: Pulling is used when your local repo is setup it will fetch and merge changes from the remote repository into your local branch. 
 
 * You have committed a change on your local machine/remote. However, you want to undo the changes committed. How would you do that?
+
+If you committed a change and would like to undo the change committed the command to use would be git revert <commit-hash>.
+
+## Markdown
+
+* <em> Create a bulleted list with at least 3 items </em>
+* Pokemon
+* Yugioh
+* Digimon
