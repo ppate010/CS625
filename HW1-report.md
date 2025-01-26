@@ -20,7 +20,8 @@ If you committed a change and would like to undo the change committed the comman
 
 ## Markdown
 
-* <em> Create a bulleted list with at least 3 items </em>
+ <em> Create a bulleted list with at least 3 items </em>
+ 
 * Pokemon
 * Yugioh
 * Digimon
