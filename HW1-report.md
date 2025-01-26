@@ -39,3 +39,11 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 
 ![Least Medals by Continent](LeastMedal.png)
 
+## Google Colab
+
+*What is the URL of your Google Colab notebook?
+
+[parth google Colab notebook](https://colab.research.google.com/drive/1v6o6HRT7CPeAqs-dCka4zpjuKlGUvSko?usp=sharing)
+
+## Python/Seaborn
+
