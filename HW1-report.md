@@ -46,4 +46,6 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 [parth google Colab notebook](https://colab.research.google.com/drive/1v6o6HRT7CPeAqs-dCka4zpjuKlGUvSko?usp=sharing)
 
 ## Python/Seaborn
+![scatter penguins](scatter_penguins.png)
 
+![bar penguins](bar_pengunis.png)
