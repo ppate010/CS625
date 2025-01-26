@@ -34,3 +34,8 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 ### My Favorite Olympic Sport (Judo)
 
 <img src = "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/v1669453692/primary/swiwzmpywuhbh76it0bs" alt="Judo" width="300" />
+
+## Tableau
+
+![Least Medals by Continent](Sheet 1.png)
+
