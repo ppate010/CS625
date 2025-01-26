@@ -37,5 +37,5 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 
 ## Tableau
 
-![Least Medals by Continent](Sheet 1.png)
+![Least Medals by Continent](LeastMedal.png)
 
