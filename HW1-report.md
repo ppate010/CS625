@@ -30,3 +30,7 @@ If you committed a change and would like to undo the change committed the comman
  <em> Write a single paragraph that demonstrates the use of italics, bold, bold italics, code, and includes a link. The paragraph must explain your favorite Olympic sport/game, the country that won the most number of olympic GOLD medals (Summer) in your favorite sport in 2020 (Japan) and 2024 (France). You are free to include more information. </em> 
 
 My favorite Olympic sport is ***Judo*** which I personally find super exciting to watch. In 2020, ***<em>Japan</em>*** received the most gold medal in Judo but in 2024 ***<em>France</em>*** took the lead and claimed the most gold medals. For more information, visit the [official Olympic website](https://www.olympics.com/)
+
+### My Favorite Olympic Sport (Judo)
+
+<img src = "https://img.olympics.com/images/image/private/t_s_pog_staticContent_hero_xl_2x/f_auto/v1669453692/primary/swiwzmpywuhbh76it0bs" alt="Judo" width="300" />
