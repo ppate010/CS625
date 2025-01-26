@@ -48,4 +48,8 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 ## Python/Seaborn
 ![scatter penguins](scatter_penguins.png)
 
+* This figure shows the relationship between penguin bill length and bill depth across all species.
+
 ![bar penguins](bar_penguins.png)
+
+* This figures compares the average body mass in grams across different penguin species to  different sex.
