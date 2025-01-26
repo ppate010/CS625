@@ -48,4 +48,4 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 ## Python/Seaborn
 ![scatter penguins](scatter_penguins.png)
 
-![bar penguins](bar_pengunis.png)
+![bar penguins](bar_penguins.png)
