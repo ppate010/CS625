@@ -73,3 +73,14 @@ What change do you need to make to swap the x and y axes on the scatterplot?
 * To swap the axes switch the field reference MIles_per_Gallon  to vl.y() and Horespower to vl.x()
 
 ![VegaLite](VegaLite.png)
+
+Why do you think this chart is the result of this code change?
+
+* By removing Origin from the y-axis the chart is no longer groouped otgether by category and groups all data together into one bar.
+
+## References
+
+![Markdown Basic Syntax](https://markdownguide.offshoot.io/basic-syntax/)
+![Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+![Vega-Lite Document](https://observablehq.com/@observablehq/vega-lite)
+![Olympics](https://www.olympics.com/)
