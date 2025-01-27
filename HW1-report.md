@@ -58,5 +58,5 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 
 Without the parentheses, nothing is displayed. Python doesn't treat the chain of method call as a single expression the code becomes separate statement rather than one final bar graph to render.
 
-##Observable and Vega-Lite
+## Observable and Vega-Lite
   
