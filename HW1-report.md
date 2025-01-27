@@ -71,3 +71,5 @@ What happens when you replace `markCircle()` with `markPoint()`?
 What change do you need to make to swap the x and y axes on the scatterplot?
 
 * To swap the axes switch the field reference MIles_per_Gallon  to vl.y() and Horespower to vl.x()
+
+![VegaLite](VegaLite.png)
