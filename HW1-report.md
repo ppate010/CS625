@@ -53,3 +53,10 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 ![bar penguins](bar_penguins.png)
 
 * This figures compares the average body mass in grams across different penguin species to  different sex.
+
+* What happened when you removed the outer parentheses from the code? Why?
+
+Without the parentheses, nothing is displayed. Python doesn't treat the chain of method call as a single expression the code becomes separate statement rather than one final bar graph to render.
+
+##Observable and Vega-Lite
+  
