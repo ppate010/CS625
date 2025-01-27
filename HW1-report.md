@@ -59,4 +59,15 @@ My favorite Olympic sport is ***Judo*** which I personally find super exciting t
 Without the parentheses, nothing is displayed. Python doesn't treat the chain of method call as a single expression the code becomes separate statement rather than one final bar graph to render.
 
 ## Observable and Vega-Lite
-  
+
+What happens when you replace `markCircle()` with `markSquare()`?
+
+* Changes every data point from a circle to a square
+
+What happens when you replace `markCircle()` with `markPoint()`?
+
+* Changes every data point from a circle to a point
+
+What change do you need to make to swap the x and y axes on the scatterplot?
+
+* To swap the axes switch the field reference MIles_per_Gallon  to vl.y() and Horespower to vl.x()
