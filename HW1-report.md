@@ -80,7 +80,7 @@ Why do you think this chart is the result of this code change?
 
 ## References
 
-[Markdown Basic Syntax](https://markdownguide.offshoot.io/basic-syntax/)
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-[Vega-Lite Document](https://observablehq.com/@observablehq/vega-lite)
-[Olympics](https://www.olympics.com/)
+* [Markdown Basic Syntax](https://markdownguide.offshoot.io/basic-syntax/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [Vega-Lite Document](https://observablehq.com/@observablehq/vega-lite)
+* [Olympics](https://www.olympics.com/)
